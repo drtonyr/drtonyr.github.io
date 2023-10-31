@@ -9,7 +9,7 @@ Perhaps the first dedicated losseless audio compressor.  First released in 1993 
 ## [pis-third-asm-emu](https://github.com/drtonyr/pis-third-asm-emu)
 
 I've wanted to build a very simple educational computer for decades, this is the archive of part of those dreams up to 2017.
-My current plans are at [The Blinking Computer](https://blinkingcomputer.org).
+My current plans use a simpler instruction set and are at [The Blinking Computer](https://blinkingcomputer.org).
 
 ## [MSF-60 decoder](https://drtonyr.github.io/MSF60decoder)
 
