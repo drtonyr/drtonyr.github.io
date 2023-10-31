@@ -2,6 +2,10 @@
 
 My main site is [tonyRobinson.com](https://tonyRobinson.com). Here lies random odds-and-sods I've worked on over the years:
 
+## [shorten](https://github.com/janstary/shorten)
+
+Perhaps the first dedicated losseless audio compressor.  First released in 1993 [Wikipedia](https://en.wikipedia.org/wiki/Shorten_(codec)).
+
 ## [pis-third-asm-emu](https://github.com/drtonyr/pis-third-asm-emu)
 
 I've wanted to build a very simple educational computer for decades, this is the archive of part of those dreams up to 2017.
@@ -18,3 +22,11 @@ There are many ways to decode this signal already out there but all seem to invo
 ## [carbonTaxBackstop](https://drtonyr.github.io/carbonTaxBackstop)
 
 A 2019 analyis of UK consumer spending to estimate the effect of a carbon tax which achieved net zero.  The main conclusion is that it's not what we buy, just how much we spend.  Net zero is achievable if (a) those that consume most spend less and (b) we implement soemthing like a universal basic income to make the carbon tax affordable to all.
+
+## [wasp-os](https://github.com/wasp-os/wasp-os)
+
+You too can write micropython and run it on your watch - it's great fun, give it a go.
+
+## [UK and Ireland tide time model (with predictions)](https://drtonyr.github.io/tide)
+
+Tide clocks assume that high tide is spaced every 12 hours and 25 minutes.  They look good, but on average they have about 38 minutes of error (one standard deviation), however a little modelling can get this down to 9 minutes of error.  The deviation from uniform spacing is modelled as a sum of sinusoids and parameters fitted with least-mean-squared error.  Python/micropython code is provided to read the model and compute predictions for any year.
