@@ -7,7 +7,7 @@ My main site is [tonyRobinson.com](https://tonyRobinson.com). Here lies random o
 I've wanted to build a very simple educational computer for decades, this is the archive of part of those dreams up to 2017.
 My current plans are at [The Blinking Computer](https://blinkingcomputer.org).
 
-# [MSF-60 decoder](https://drtonyr.github.io/MSF60decoder)
+## [MSF-60 decoder](https://drtonyr.github.io/MSF60decoder)
 
 A simple software decoder for the 60kHz NPL time signal (aka MSF) accurate to a few tens of milliseconds.
 
