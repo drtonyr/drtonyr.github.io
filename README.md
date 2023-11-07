@@ -2,7 +2,7 @@
 
 My main site is [tonyRobinson.com](https://tonyRobinson.com). Here lies random odds-and-sods I've worked on over the years:
 
-## [shorten](https://github.com/janstary/shorten)
+## [shorten](https://github.com/drtonyr/shorten)
 
 Perhaps the first dedicated losseless audio compressor.  First released in 1993 [Wikipedia](https://en.wikipedia.org/wiki/Shorten_(codec)).
 
